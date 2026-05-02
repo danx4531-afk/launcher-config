@@ -7,7 +7,7 @@
     "title": "HADECLIENT",
     "description": "Fabric 1.21.1 с твоим модом",
     "folder": "HadeClient",
-    "downloadUrl": "https://meta.fabricmc.net/v2/versions/loader/1.21.1/0.16.10/1.0.1/client/jar",
+    "downloadUrl": "https://meta.fabricmc.net/v2/versions/loader/1.21.1/latest/1.0.1/client/jar",
     "modUrl": "https://drive.google.com/uc?export=download&id=1LOCyvjPN3CH9_ptGKQcEfOBBRwTnp9pe",
     "exePath": "fabric-loader-1.21.1.jar",
     "version": "1.0"
